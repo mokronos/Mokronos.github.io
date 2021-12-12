@@ -5,4 +5,4 @@ title: About
 
 # About page
 
-some stuff about me
+some stuff about me!
