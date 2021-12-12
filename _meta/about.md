@@ -3,6 +3,5 @@ layout: base
 title: About
 ---
 
-# About page
+# About
 
-some stuff about me

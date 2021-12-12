@@ -53,3 +53,11 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#
+collections:
+  meta:
+    output: true
+    title: Basic Pages
+  content:
+    output: true
+    title: Content Pages
