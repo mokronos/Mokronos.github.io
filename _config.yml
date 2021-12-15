@@ -61,3 +61,5 @@ collections:
   content:
     output: true
     title: Content Pages
+
+permalink: /:title/
