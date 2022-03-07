@@ -1,8 +1,8 @@
 ---
 layout: base
-title: Data analysis
+title: Data Preparation and Feature Engineering
 ---
 
-# Data analysis
+Mainly just notes taken from [Google](https://developers.google.com/machine-learning/data-prep).
 
-## Audio data
+
