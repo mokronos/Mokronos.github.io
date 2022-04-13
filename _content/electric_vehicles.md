@@ -1,5 +1,7 @@
-
-title: Electric vehicles layout: base
+---
+title: Electric vehicles
+layout: base
+---
 
 
 # Electric vehicles
