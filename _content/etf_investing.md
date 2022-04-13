@@ -37,8 +37,10 @@ Die Annahme, dass der **Markt immer weiter steigt** ist warscheinlich. Menschen 
 Mit dem MSCI World werden nur die Industrieländer abgedeckt. Um noch breiter zu diversifizieren ist es sinnvoll ca.30% des Portfolios in beispielsweise den MSCI World Emerging Markets(EM), welcher viele Schwellenländer noch mit abdeckt. Alternativ ist es noch möglich etwas Europa dazuzunehmen, wenn die Übergewichtung der USA im MSCI World nicht gefällt.
 
 ## Mögliche ETFs
+
 ### MSCI World SRI (70%)
 - Amundi Index MSCI World SRI UCITS ETF DR | WKN: A2JSDA | ISIN: LU1861134382
+
 ### MSCI World Emerging Markets SRI (30%)
 - iShares MSCI EM SRI UCITS ETF | WKN: A2AFCZ | ISIN: IE00BYVJRP78
 - Amundi Index MSCI Emerging Markets SRI UCITS DR ETF (C) | WKN: A2JSDD | ISIN: LU1861138961
