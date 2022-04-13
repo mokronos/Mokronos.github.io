@@ -1,3 +1,5 @@
+title: Investing layout: base
+
 # ETF Investing
 
 ## Timeframe
