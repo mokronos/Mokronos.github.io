@@ -1,4 +1,7 @@
-title: Investing layout: base
+---
+title: Investing
+layout: base
+---
 
 # ETF Investing
 
