@@ -1,6 +1,6 @@
 ---
 title: Investing
-layout: base
+layout: default
 ---
 
 # ETF Investing
