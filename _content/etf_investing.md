@@ -39,11 +39,11 @@ Mit dem MSCI World werden nur die Industrieländer abgedeckt. Um noch breiter zu
 
 ## Mögliche ETFs
 
-**MSCI World SRI (70%)**
+**MSCI World SRI (70%):**
 
-- Amundi Index MSCI World SRI UCITS ETF DR   WKN: A2JSDA   ISIN: LU1861134382
+- Amundi Index MSCI World SRI UCITS ETF DR (WKN: A2JSDA ISIN: LU1861134382)
 
-**MSCI World Emerging Markets SRI (30%)**
+**MSCI World Emerging Markets SRI (30%):**
 
-- iShares MSCI EM SRI UCITS ETF   WKN: A2AFCZ   ISIN: IE00BYVJRP78
-- Amundi Index MSCI Emerging Markets SRI UCITS DR ETF (C)   WKN: A2JSDD   ISIN: LU1861138961
+- iShares MSCI EM SRI UCITS ETF (WKN: A2AFCZ ISIN: IE00BYVJRP78)
+- Amundi Index MSCI Emerging Markets SRI UCITS DR ETF (C) (WKN: A2JSDD ISIN: LU1861138961)
