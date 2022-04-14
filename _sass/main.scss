@@ -1,3 +1,27 @@
-.current {
-    color: green;
+// links
+$linkcolor: lightblue;
+a:link {
+    color: $linkcolor;
+}
+
+a:visited{
+    color: $linkcolor;
+}
+
+a:hover {
+    color: #ffdab9;
+}
+
+a.current {
+    color: orange;
+}
+
+a:link, a:visited, a:hover, a:active {
+    text-decoration: None;
+}
+
+body {
+    background-color: #161b22;
+    color: white;
+    margin: 5%;
 }
