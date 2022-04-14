@@ -5,7 +5,7 @@ layout: base
 
 # ETF Investing
 
-**Es wurden nur 1-2 verschiedene Quellen angegeben, allerdings sind die meisten Aussagen nicht wirklich kontrovers. Die meisten Dinge lassen sich schnell auf Investopedia oder anderen Seiten finden. Ich war nur zu faul alles anzugeben.**
+**!!! Es wurden nur 1-2 verschiedene Quellen angegeben, allerdings sind die meisten Aussagen nicht wirklich kontrovers. Die meisten Dinge lassen sich schnell auf Investopedia oder anderen Seiten finden. Ich war nur zu faul alles anzugeben.**
 
 ## Timeframe
 
@@ -17,11 +17,11 @@ ETFs sind wie Fonds, kleine Anteile von Unternehmen in "Packet". Kann dadurch ü
 
 Der Unterschied von ETFs im Vergleich zu Fonds ist das Management. Fonds werden von Angestellten von Banken gemanaged und **aktiv Aktien hinzugefügt oder verkauft**. Dies ist mit **Personalkosten** verbunden. ETFs werden **automatisch gemanaged** und versuchen so genau wie möglich einem **Index zu folgen**. Diese Indizes werden auf Basis von bestimmten Regeln aufgestellt. Mcsi world setzt sich beispielsweise aus den top (70%) Unternehmen mit den höchsten Marktkapitalisierung aus bestimmten Ländern zusammen. Die Kostenunterschiede zwischen ETFs und aktiven Fonds beträgt meist **~1%**.
 
-Diese Differenz muss durch die Experten der Banken, welche diese Fonds managen, **zusätzlich zu der Rendite des ETFs** erreicht werden, sodass der Fond ein besseres Investment als der ETF ist. Dies wird meist nicht erreicht bzw. ist wieder ein Glücksspiel in sich selbst, da der "richtige" Fond herausgesucht werden muss und oft sind diese nicht wirklich transparent. Zudem ist es so gut wie **unmöglich den Markt zu verstehen** und falls Experten dies tun, würden sie vermutlich keine Fonds managen sondern selbst traden und nicht mehr arbeiten müssen.
+Diese Differenz muss durch die Experten der Banken, welche diese Fonds managen, **zusätzlich zu der Rendite des ETFs** erreicht werden, sodass der Fond ein besseres Investment als der ETF ist. Dies wird meist nicht erreicht bzw. ist wieder ein Glücksspiel in sich selbst, da der "richtige" Fond herausgesucht werden muss und oft sind diese nicht wirklich transparent. Zudem ist es so gut wie **unmöglich den Markt zu verstehen** und falls Experten dies täten, würden sie vermutlich keine Fonds managen sondern selbst traden und nicht mehr arbeiten müssen.
 
-Die Annahme, dass der **Markt immer weiter steigt** ist warscheinlich. Menschen wollen schon immer mehr Dinge und ein "besseres" Leben. Die Industrieländer sind vielen Teilen der Welt vorraus. Auch wenn die Industrieländer sich entscheiden sollten nicht mehr so viel zu produzieren (evtl. auf Grund des Klimawandels) wird vermutlich immer noch der Rest der Welt nachziehen und Güter benötigen. Zudem wird dies vermutlich nicht in den nächsten ~30 Jahren passieren, falls es überhaupt passiert.
+Die Annahme, dass der **Markt immer weiter steigt** ist warscheinlich. Menschen wollen schon immer mehr Dinge und ein "besseres" Leben. Die Industrieländer sind vielen Teilen der Welt vorraus. Auch wenn die Industrieländer sich entscheiden sollten nicht mehr so viel zu produzieren (evtl. auf Grund des Klimawandels) wird vermutlich immer noch der Rest der Welt nachziehen und Güter benötigen. Zudem wird dies vermutlich nicht in den nächsten ~30 Jahren passieren, wenn überhaupt.
 
-[Mcsi world über 15 jahre](https://ystat.org/) (seite down --> [ähnlich](https://backtest.curvo.eu/portfolio/msci-world--NoIgsgygwgkgBAdQPYCcA2ATEAaYoAyAqgIwDsAHMQKwAsxZAnDsQLptA)) median rendite 8.78%, **schlechteste 3.16% pro jahr** abhängig davon wann gekauft/verkauft wird. Das wichtigste ist, dass die varianz mit längeren Investmentperioden sinkt und nach 10-15 Jahren die Chance für positive Rendite über 90% liegt und nach 20 Jahren gar bei 100% (auf der [Seite](https://backtest.curvo.eu/portfolio/msci-world--NoIgsgygwgkgBAdQPYCcA2ATEAaYoAyAqgIwDsAHMQKwAsxZAnDsQLptA) zu Minimum investment horizon und Compute clicken). Natürlich sind dies historische Daten und garantieren nichts für die Zukunft, jedoch sind sie trotzdem gute Anhaltspunkte, da der gesamte Markt sich in Zukunft vermutlich auf lange Sicht ähnlich verhalten wird.
+[Mcsi world über 15 jahre](https://ystat.org/) (seite down &rarr; [ähnlich](https://backtest.curvo.eu/portfolio/msci-world--NoIgsgygwgkgBAdQPYCcA2ATEAaYoAyAqgIwDsAHMQKwAsxZAnDsQLptA)) median rendite 8.78%, **schlechteste 3.16% pro jahr** (abhängig davon wann gekauft/verkauft wird). Das wichtigste ist, dass die varianz mit längeren Investmentperioden sinkt und nach 10-15 Jahren die Chance für positive Rendite über 90% liegt und nach 20 Jahren gar bei 100% (auf der [Seite](https://backtest.curvo.eu/portfolio/msci-world--NoIgsgygwgkgBAdQPYCcA2ATEAaYoAyAqgIwDsAHMQKwAsxZAnDsQLptA) zu Minimum investment horizon und Compute clicken). Natürlich sind dies historische Daten und garantieren nichts für die Zukunft, jedoch sind sie trotzdem gute Anhaltspunkte, da der gesamte Markt sich in Zukunft vermutlich auf lange Sicht ähnlich verhalten wird.
 
 ## Broker
 
@@ -43,7 +43,7 @@ Oder einfach [Investopedia](https://www.investopedia.com/financial-advisor/esg-s
 
 ## 70/30
 
-Mit dem MSCI World werden nur die Industrieländer abgedeckt. Um noch breiter zu diversifizieren ist es sinnvoll ca.30% des Portfolios in beispielsweise den MSCI World Emerging Markets(EM), welcher viele Schwellenländer noch mit abdeckt. Alternativ ist es noch möglich etwas Europa dazuzunehmen, wenn die Übergewichtung der USA im MSCI World nicht gefällt.
+Mit dem MSCI World werden nur die Industrieländer abgedeckt. Um noch breiter zu diversifizieren ist es sinnvoll ca. 30% des Portfolios in beispielsweise den MSCI World Emerging Markets (EM), welcher viele Schwellenländer noch mit abdeckt. Alternativ ist es noch möglich etwas Europa dazuzunehmen, wenn die Übergewichtung der USA im MSCI World nicht gefällt.
 
 [Hier](https://www.finanzfluss.de/etf-handbuch/etf-portfolio/) noch ein paar andere Porfolioarten zum Vergleich.
 
