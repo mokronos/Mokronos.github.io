@@ -21,7 +21,7 @@ Diese Differenz muss durch die Experten der Banken, welche diese Fonds managen, 
 
 Die Annahme, dass der **Markt immer weiter steigt** ist warscheinlich. Menschen wollen schon immer mehr Dinge und ein "besseres" Leben. Die Industrieländer sind vielen Teilen der Welt vorraus. Auch wenn die Industrieländer sich entscheiden sollten nicht mehr so viel zu produzieren (evtl. auf Grund des Klimawandels) wird vermutlich immer noch der Rest der Welt nachziehen und Güter benötigen. Zudem wird dies vermutlich nicht in den nächsten ~30 Jahren passieren, falls es überhaupt passiert.
 
-[mcsi world über 15 jahre](https://ystat.org/) (seite down --> [ähnlich](https://backtest.curvo.eu/portfolio/msci-world--NoIgsgygwgkgBAdQPYCcA2ATEAaYoAyAqgIwDsAHMQKwAsxZAnDsQLptA) median rendite 8.78%, **schlechteste 3.16% pro jahr** abhängig davon wann gekauft/verkauft wird. Das wichtigste ist, dass die varianz mit längeren Investmentperioden sinkt und nach 10-15 Jahren die Chance für positive Rendite über 90% liegt und nach 20 Jahren gar bei 100% ([hier gut zu erkennen](https://backtest.curvo.eu/portfolio/msci-world--NoIgsgygwgkgBAdQPYCcA2ATEAaYoAyAqgIwDsAHMQKwAsxZAnDsQLptA#:~:text=0%25-,Minimum%20investment%20horizon,-How%20long%20should)). Natürlich sind dies historische Daten und garantieren nichts für die Zukunft, jedoch sind sie trotzdem gute Anhaltspunkte, da der gesamte Markt sich in Zukunft vermutlich auf lange Sicht ähnlich verhalten wird.
+[Mcsi world über 15 jahre](https://ystat.org/) (seite down --> [ähnlich](https://backtest.curvo.eu/portfolio/msci-world--NoIgsgygwgkgBAdQPYCcA2ATEAaYoAyAqgIwDsAHMQKwAsxZAnDsQLptA)) median rendite 8.78%, **schlechteste 3.16% pro jahr** abhängig davon wann gekauft/verkauft wird. Das wichtigste ist, dass die varianz mit längeren Investmentperioden sinkt und nach 10-15 Jahren die Chance für positive Rendite über 90% liegt und nach 20 Jahren gar bei 100% (auf der [Seite](https://backtest.curvo.eu/portfolio/msci-world--NoIgsgygwgkgBAdQPYCcA2ATEAaYoAyAqgIwDsAHMQKwAsxZAnDsQLptA) zu Minimum investment horizon und Compute clicken). Natürlich sind dies historische Daten und garantieren nichts für die Zukunft, jedoch sind sie trotzdem gute Anhaltspunkte, da der gesamte Markt sich in Zukunft vermutlich auf lange Sicht ähnlich verhalten wird.
 
 ## Broker
 
@@ -36,8 +36,9 @@ Es ist schwer Beispiele zu nennen, da die Konditionen der Broker sich andauernd 
 - **ESG**: Ziel ist immer noch Performance. Es werden Unternehmen ausgeschlossen die durch bestimmte umweltschädlichen, sozialen oder ihr Regime negativ auffallen, und dadurch auch eventuell schlechtere Performance erreichen (so weit ich weiß wurde aber noch keine klare Korrelation mit schlechterer Performance festgestellt).
 - **SRI**: strenger als ESG, suchen aktiv Unternehmen nach ethischen Richtlinien herraus, verwenden allerdings auch teilweise das ESG-Rating zur auswahl, nur die Grenze ist strenger.
 
-Gute Videos dafür: [1](https://www.youtube.com/watch?v=6kIzjD_seLI)[2](https://www.youtube.com/watch?v=VeBHRURmh1U) oder in [Text Form](https://www.finanzfluss.de/geldanlage/nachhaltige-etfs/)
-Oder einfach [Investopedia](https://www.investopedia.com/financial-advisor/esg-sri-impact-investing-explaining-difference-clients/)
+Gute Videos dafür: [[1]](https://www.youtube.com/watch?v=6kIzjD_seLI)[[2]](https://www.youtube.com/watch?v=VeBHRURmh1U) oder in [Text Form](https://www.finanzfluss.de/geldanlage/nachhaltige-etfs/).
+
+Oder einfach [Investopedia](https://www.investopedia.com/financial-advisor/esg-sri-impact-investing-explaining-difference-clients/).
 
 
 ## 70/30
