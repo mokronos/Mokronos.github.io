@@ -25,11 +25,11 @@ Die Annahme, dass der **Markt immer weiter steigt** ist warscheinlich. Menschen 
 
 ## Broker
 
-- Hohe Sicherheit (haben eigentlich alle hier in Deutschland + deutsche Einlagensicherung bis 100.000)
+- Hohe Sicherheit (haben eigentlich alle hier in Deutschland + deutsche Einlagensicherung bis 100.000€)
 - keine Verwahrungsgebüren (ist bei den meisten auch so)
 - geringe Kosten für einmaligen Kauf (gut wenn pauschal, schlecht wenn %)
 
-Es ist schwer Beispiele zu nennen, da die Konditionen der Broker sich andauernd ändern. Generell bieten jedoch die "alten" Banken schlechtere Konditionen. Ein weiterer wichtiger Faktor ist oft ob die Broker eine gute App und Website anbieten, da da viele Banken auch noch sehr hinterher sind. Am besten kurz immer YouTube Videos angucken, um die Apps in Aktion zu sehen. Man könnte allerdings auch argumentieren, dass es besser ist keine oder keine gute App zu haben, da dies bei vielen Leuten zu Impuls Käufen oder Verkäufen führen kann, da es so einfach ist. 
+Es ist schwer Beispiele zu nennen, da die Konditionen der Broker sich andauernd ändern. Generell bieten jedoch die "alten" Banken schlechtere Konditionen. Ein weiterer wichtiger Faktor ist oft, ob die Broker eine gute App und Website anbieten, da viele Banken noch sehr hinterher sind. Am besten kurz immer YouTube Videos angucken, um die Apps in Aktion zu sehen. Man könnte allerdings auch argumentieren, dass es besser ist keine oder keine gute App zu haben, da dies bei vielen Leuten zu Impuls Käufen oder Verkäufen führen kann, da es so einfach ist. 
 
 ## Nachhaltig.
 

@@ -20,8 +20,12 @@ a:link, a:visited, a:hover, a:active {
     text-decoration: None;
 }
 
+// font
+$fontvar: "Helvetica", "Arial", sans-serif;
+
 body {
     background-color: #161b22;
     color: white;
     margin: 5%;
+    font-family: $fontvar;
 }
