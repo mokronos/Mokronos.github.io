@@ -1,3 +1,8 @@
+---
+title: Investing
+layout: base
+---
+
 # ETF Investing
 
 ## Timeframe
@@ -17,11 +22,12 @@ Die Annahme, dass der **Markt immer weiter steigt** ist warscheinlich. Menschen 
 [mcsi world über 15 jahre](https://ystat.org/) median rendite 8.78%, **schlechteste 3.16% pro jahr** abhängig davon wann gekauft/verkauft wird. [https://ystat.org/]
 
 ## Broker
+
 - Hohe Sicherheit (haben eigentlich alle hier in Deutschland + deutsche Einlagensicherung bis 100.000)
 - keine Verwahrungsgebüren (ist bei den meisten auch so)
 - geringe Kosten für einmaligen Kauf (gut wenn pauschal, schlecht wenn %)
 
-## Nachhaltig
+## Nachhaltig.
 
 - **ESG**: Ziel ist immer noch Performance. Es werden Unternehmen ausgeschlossen die durch bestimmte umweltschädlichen, sozialen oder ihr Regime negativ auffallen.
 - **SRI**: strenger als ESG, suchen aktiv Unternehmen nach ethischen Richtlinien herraus, verwenden allerdings auch teilweise das ESG-Rating zur auswahl, nur die Grenze ist strenger.
@@ -32,8 +38,12 @@ Die Annahme, dass der **Markt immer weiter steigt** ist warscheinlich. Menschen 
 Mit dem MSCI World werden nur die Industrieländer abgedeckt. Um noch breiter zu diversifizieren ist es sinnvoll ca.30% des Portfolios in beispielsweise den MSCI World Emerging Markets(EM), welcher viele Schwellenländer noch mit abdeckt. Alternativ ist es noch möglich etwas Europa dazuzunehmen, wenn die Übergewichtung der USA im MSCI World nicht gefällt.
 
 ## Mögliche ETFs
-### MSCI World SRI (70%)
-- Amundi Index MSCI World SRI UCITS ETF DR | WKN: A2JSDA | ISIN: LU1861134382
-### MSCI World Emerging Markets SRI (30%)
-- iShares MSCI EM SRI UCITS ETF | WKN: A2AFCZ | ISIN: IE00BYVJRP78
-- Amundi Index MSCI Emerging Markets SRI UCITS DR ETF (C) | WKN: A2JSDD | ISIN: LU1861138961
+
+**MSCI World SRI (70%):**
+
+- Amundi Index MSCI World SRI UCITS ETF DR (WKN: A2JSDA ISIN: LU1861134382)
+
+**MSCI World Emerging Markets SRI (30%):**
+
+- iShares MSCI EM SRI UCITS ETF (WKN: A2AFCZ ISIN: IE00BYVJRP78)
+- Amundi Index MSCI Emerging Markets SRI UCITS DR ETF (C) (WKN: A2JSDD ISIN: LU1861138961)
