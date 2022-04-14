@@ -31,7 +31,7 @@ Die Annahme, dass der **Markt immer weiter steigt**, ist warscheinlich korrekt. 
 
 Es ist schwer Beispiele zu nennen, da die Konditionen der Broker sich andauernd ändern. Generell bieten jedoch die "alten" Banken schlechtere Konditionen. Ein weiterer wichtiger Faktor ist oft, ob die Broker eine gute App und Website anbieten, da viele Banken noch sehr hinterher sind. Am besten kurz immer YouTube Videos angucken, um die Apps in Aktion zu sehen. Man könnte allerdings auch argumentieren, dass es besser ist keine oder keine gute App zu haben, da dies bei vielen Leuten zu Impuls Käufen oder Verkäufen führen kann, da es so einfach ist. 
 
-## Nachhaltig.
+## Nachhaltigkeit
 
 - **ESG**: Ziel ist immer noch Performance. Es werden Unternehmen ausgeschlossen die durch bestimmte umweltschädlichen, sozialen oder ihr Regime negativ auffallen, und dadurch auch eventuell schlechtere Performance erreichen (so weit ich weiß wurde aber noch keine klare Korrelation mit schlechterer Performance festgestellt).
 - **SRI**: strenger als ESG, suchen aktiv Unternehmen nach ethischen Richtlinien herraus, verwenden allerdings auch teilweise das ESG-Rating zur auswahl, nur die Grenze ist strenger.
