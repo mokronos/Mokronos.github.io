@@ -5,12 +5,17 @@ a:link {
 }
 
 a:visited{
+    color: #3691b0;
+}
+
+a.nav:visited {
     color: $linkcolor;
 }
 
 a:hover {
     color: #ffdab9;
 }
+
 
 a.current {
     color: orange;
