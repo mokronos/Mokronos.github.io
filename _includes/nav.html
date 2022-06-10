@@ -6,7 +6,8 @@
 </nav>
 
 <nav>
+    ||
   {% for post in site.content %}
-    <a href="{{ post.url }}" class={% if page.url == post.url %}"current"{% else %}"nav"{% endif %}>{{ post.title }}</a>
+    <a href="{{ post.url }}" class={% if page.url == post.url %}"current"{% else %}"nav"{% endif %}>{{ post.title }}</a> ||
   {% endfor %}
 </nav>
