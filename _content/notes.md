@@ -35,12 +35,15 @@ layout: base
 
 ## Questions
 
-- python library for state space stuff or matlab needed? easy to find
-- state space papers? email
-- language? english or german 10-20 pages
-- Latex template? ??
-- presentation? yes
+- what are the inputs to the RNN/LSTM (example pendulum with or without bump):
+    - all parameters of the differential equation? in practice those aren't all known as we wouldn't know the model, only some of the inputs and some of the outputs
+    - just the time step? needs some starting value
+    - just knowable variable (eg. Input voltage of system)? might be best
+    - outputs of previous time step? Shouldn't be necessary as that's what the RNN is for.
 
+- how to get differential equation from papers
+- hidden layer (memory) needs to remember "initial conditions"
 
+black, grey, white box
 
 \\fauad.fau.de\LRT\Arbeit\ne19ryji
