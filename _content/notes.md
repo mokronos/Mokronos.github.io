@@ -1,7 +1,7 @@
----
-title: Notes
-layout: base
----
+<!-- --- -->
+<!-- title: Notes -->
+<!-- layout: base -->
+<!-- --- -->
 
 
 Do first (move to ios app only works on factory reset)
