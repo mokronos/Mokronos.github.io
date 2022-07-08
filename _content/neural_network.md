@@ -33,3 +33,19 @@ So there are three big parts of a neural network. The architecture of the networ
 - Is Data argumentation necessary and/or useful?
 - Can there be too much data?
 - Is there bias in data?
+
+# Practical Stuff
+
+## Data Loading
+
+For a custom dataset one needs to implement the Dataset class even if its the most basic dataset.
+
+## Perceptron
+
+The Perceptron is the simplest neural network possible.
+
+## Implement small deep learning library from scratch (with numpy)
+
+At some point!! To help with a deeper understanding of backpropagation and the inner workings in general.
+
+
