@@ -36,10 +36,6 @@ So there are three big parts of a neural network. The architecture of the networ
 
 # Practical Stuff
 
-## Data Loading
-
-For a custom dataset one needs to implement the Dataset class even if its the most basic dataset.
-
 ## Perceptron
 
 The Perceptron is the simplest neural network possible.
