@@ -67,4 +67,21 @@ Chapter 4, page 41-51
 - extend brain with chip, access fast amounts of information at speed of thought
 - accelerates effects/issues above
 
+## Epistemic Agency
+
+### Tugend
+
+Verantwortung
+Anonymity
+
+
+
+
+
+
+
+
+
+
+
 Seminar Thema: Wikipedia 2 (23.11)
