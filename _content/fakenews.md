@@ -75,13 +75,35 @@ Verantwortung
 Anonymity
 
 
+## Wikipedia and the epistemology of testimony (by deborah perron tollefsen)
 
+### Introduction
 
+- studies mainly focus on individual testimony
+- group testimony can't always be understood as just a summation of individual testimony
+- the group itself testifies
+- example Wikipedia
 
+### Questions
 
+- Is Wikipedia a source of testimony?
+- What is the nature of that source?
+    - the individuals that make entries
+    - a subset of individuals
+    - the entity Wikipedia itself
+- How can we asses the trustworthiness of Wikipedia as such an unusual epistemic source?
 
+### Are the statements on Wikipedia testimony?
 
+#### define testimony
+- conservative (Coady 1992)
+    - speakers intention to present evidence on a specific matter in the interest of the audience
+- liberal (E. Fricker 1995, Sosa 1991)
+    - "tellings in general" with no restriction on the domain
+- Jennifer Lackey (2006)
+    - "S testifies that p by making an act of communication a if and only if (in part) in virtue of a’s communicable content, (1) S reasonably intends to convey the information that p, or (2) a is reasonably taken as conveying the information that p."
+    - so it is a testimony if the speaker intends to convey information or if the audience takes it as such
 
-
+All would obviously include Wikipedia as testimony.
 
 Seminar Thema: Wikipedia 2 (23.11)
