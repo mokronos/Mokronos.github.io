@@ -51,7 +51,7 @@ You need some dedicated time to do whatever you want. If not, it will creep into
 
 Good time to socialize. Meeting friends helps.
 
-# Schedule
+# Default Schedule
 
 | Time        | Task           |
 | ------------- |:-------------:|
@@ -66,6 +66,22 @@ Good time to socialize. Meeting friends helps.
 | 19:00 | Dinner      |
 | 19:30 | Do whatever I want      |
 | 22:30 | Sleep      |
+
+# Alternative Schedule
+
+| Time        | Task           |
+| ------------- |:-------------:|
+| 7:00      | Wake up, Shower, Get ready |
+| 7:30      | Go for a walk      |
+| 7:50 | Breakfast      |
+| 8:15 | Schedule my day      |
+| 8:30 | Work      |
+| 12:00 | Do exercise      |
+| 12:30 | Lunch      |
+| 13:30 | Work      |
+| 17:00 | Do whatever I want      |
+| 22:30 | Sleep      |
+
 
 # Rules
 
