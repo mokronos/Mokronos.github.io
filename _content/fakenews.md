@@ -104,6 +104,122 @@ Anonymity
     - "S testifies that p by making an act of communication a if and only if (in part) in virtue of a’s communicable content, (1) S reasonably intends to convey the information that p, or (2) a is reasonably taken as conveying the information that p."
     - so it is a testimony if the speaker intends to convey information or if the audience takes it as such
 
+#### Wikipedia as testimony
+
 All would obviously include Wikipedia as testimony.
+
+Assumption: People are trolling, writing false information for fun.
+
+Some definitions of testimony might be broken. Lackey's definition would still include Wikipedia as testimony, as people who read Wikipedia still assume it to be testimony.
+
+Wray: not all entries are testimony, some are jokes, so nothing is testimony.
+
+Doesn't mean nothing is testimony.
+
+Testimony is not only what one believes, otherwise there would be no false testimony.
+
+Moran(2006), Assurance view: Testimony comes with assurance that statement is true. Testifiers have responsibility to be truthful. They are aware that they might be questioned and need to explain themselves if the statement is false.
+
+The same is true on Wikipedia. People can change information, but they know that they can then be called to question by other people that can discuss these changes and change them again.
+
+Even if a troll is sometimes hard to track down and question, the information still is taken to come with assurances.
+
+So none of the definitions of testimony would exclude Wikipedia as testimony.
+
+### Group testimony
+
+New Question: Is the source the person that writes the entry or the entity Wikipedia?
+
+When group decides something, it doesn't necessarily follow that all or most of the group, would testify the similarly.
+
+**Example:**
+
+NAS needed to make statement on long term genetic hazards of radiation exposure. It was a difficult decision, but needed to be made to protect the public from other, more harmful misinformation.  Some scientists even refused to sign it, because they thought it was indeterminable. In the end they all signed.
+
+For a group G, speaker S, and utterance x, G utters x if and only if:
+1. There exists a group (G), this group has an illocutionary intention, and x conveys that illocutionary intention.
+2. S believes that he or she knows the illocutionary intention of G and that x conveys this illocutionary intention.
+3. G does not object to S uttering x on its behalf and if G intends for any specific individual(s) to utter x, it intends for S to utter x. S believes that he or she knows this.
+4. 2 and 3 are the reasons S utters x.
+
+Need to add 5th condition.
+
+5. S utters G in the proper social and normative context.
+
+This is important, as the NAS group would probably not have signed the statements, if it wasn't necessary to keep public trust and safety.
+
+So group testimony (group speech act with conveyed information):
+
+Group G testifies that p by making an act of communication a if and only if:
+1. (in part) in virtue of a’s communicable content G reasonably intends to convey the information that p.
+2. The information that p is conveyed by either (i) a spokesperson S or (ii) a written document.
+3. If (i), G does not object to S’s uttering p on its behalf and if G intends for any specific individual(s) to utter p, it intends for S to utter p and S believes that he or she knows this.
+4. If (i), S utters p for the reasons in 3.
+5. If (ii), G does not object to the way in which p is conveyed in writing.
+6. G conveys the information that p in the right social and normative context.
+7. In conveying the information that p in the right social and normative context, G is taken to have given its assurance that p is true.
+
+### Wikipedia entries as group testimony
+
+Traits shared by groups (research teams, governments or corporations)
+- share certain goals
+    - clear goals on Wikipedia: natural, balanced, verifiable knowledge to all for free
+    - contributors have largely those goals, would be hard to explain otherwise
+- are aware that they share these goals
+    - "Wikipedia community", "Wikipedians" are names used, Wikipedia conferences exist
+    - there are pages on Wikipedia that explain itself, so its self reflective
+- group decision making process with specific rules
+- group members have special rights and obligations
+
+Articles are testimony of Wikipedia once they have been discussed at length and have been approved by the community, they become featured or good articles.
+
+
+Until then, they are either individual or group testimony.
+
+The trustworthiness of Wikipedia needs to be monitored in those early stages, while "steadying ones mind", almost like a child.
+
+### Trustworthiness of Wikipedia
+
+Anti-reductionism: Trust others, assuming they have similar thinking faculties. (normal conversation)
+Reductionism: Trust, if there are positive reasons, that the other person is sincere/reliable.
+
+#### Anti-reductionism
+Normal conversation with one person is on topics with not expertise, so anti-reductionism is fine. Generally groups have some kind of specific expertise (governmental, scientific, legal). With Wikipedia its different, because it speaks on a wide range of interests (more like a person on the street).
+
+However the standard trust assumption of anti-reductionism may fail with Wikipedia, if it's treated as a child/unstable.
+
+#### Reductionism
+
+##### Scrutinize the speaker/Wikipedia
+
+- Sum of individuals:
+    - check if some or all of the contributors are reliable
+    - often short track record of contributors, hard to evaluate
+    - mature articles could be closer to the truth than the individual entries of the contributors through the process of discussion and approval
+    - might tell us nothing about the trustworthiness of Wikipedia
+- Systematic cues:
+    - Programs can figure out anomalies (quick changes without discussion after long stable period, information that doesn't fit into the style of the article)
+    - quick correction of spelling/grammatical errors might hide red flags for the content of the entry from the reader; one can still check the history (most probably wont)
+    - trust the system not the individuals
+
+##### Scrutinize the content
+
+Verify with own background knowledge. Integrate in world view and check for inconsistencies.
+A UFO landed on the school roof (unlikely because of prior believe)
+Trust the process and the reports, not the individuals.
+There are incentives for groups to tell the truth(scientific groups, some corporations)
+
+If group testimony is wildly at odds with your own knowledge, one has no reason to trust it.
+
+**Wikipedia**:
+- incentives are in the structure of the system
+- entries will be checked against background knowledge
+- by challenging Wikipedia, its reliability increases through new policies and procedures
+
+### Conclusion
+
+- Wikipedia involves a mix of individual, group and Wikipedia testimony
+- Can't trust Wikipedia by default, yet (still a child)
+- Will get better once it matures, and doesn't need to be constantly monitored
 
 Seminar Thema: Wikipedia 2 (23.11)
