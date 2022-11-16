@@ -74,6 +74,10 @@ Chapter 4, page 41-51
 Verantwortung
 Anonymity
 
+## On trusting Wikipedia
+- generally trusted
+- not always correct
+
 
 ## Wikipedia and the epistemology of testimony (by deborah perron tollefsen)
 
@@ -221,5 +225,11 @@ If group testimony is wildly at odds with your own knowledge, one has no reason 
 - Wikipedia involves a mix of individual, group and Wikipedia testimony
 - Can't trust Wikipedia by default, yet (still a child)
 - Will get better once it matures, and doesn't need to be constantly monitored
+
+### Discussion Questions
+
+
+
+
 
 Seminar Thema: Wikipedia 2 (23.11)
