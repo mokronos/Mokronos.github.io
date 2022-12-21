@@ -229,6 +229,7 @@ If group testimony is wildly at odds with your own knowledge, one has no reason 
 ### Discussion Questions
 
 
+## Fake News and Partisan Epistemology
 
 
 
