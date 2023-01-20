@@ -1,9 +1,9 @@
 ---
-title: Maschine Learning
+title: Machine Learning
 layout: base
 ---
 
-# Maschine Learning
+# Machine Learning
 
 ## Preparation
 Going Through [CS50](https://cs50.harvard.edu/college/2022/spring/notes/0/) for refresh of some basics ([Notes]({% link _content/cs50.md %})).
