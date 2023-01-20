@@ -16,4 +16,4 @@ It would be cool to have a somewhat standarised form of arguments or moral syste
 
 So one could create ones own tree of axioms, premisses and conclusions. Those could be shared and argued about. The program could help identifiy contentions between two peoples moral systems so one can instantly focus on the disagreements.
 
-The main issue is the uglieness of human input. Even with a some standard blocks like axioms and other logical forms humans still input their claims differently. So one would need some maschine learning to interpret and compare arguments. With the advancements of language models like [GTP-3](https://en.wikipedia.org/wiki/GPT-3) one may be able to achieve some decent results.
+The main issue is the uglieness of human input. Even with a some standard blocks like axioms and other logical forms humans still input their claims differently. So one would need some machine learning to interpret and compare arguments. With the advancements of language models like [GTP-3](https://en.wikipedia.org/wiki/GPT-3) one may be able to achieve some decent results.
