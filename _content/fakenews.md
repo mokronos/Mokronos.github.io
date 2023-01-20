@@ -232,5 +232,6 @@ If group testimony is wildly at odds with your own knowledge, one has no reason 
 ## Fake News and Partisan Epistemology
 
 
+## Context Collapse
 
-Seminar Thema: Wikipedia 2 (23.11)
+
