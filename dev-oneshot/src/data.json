@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "trap master",
+        "description": "Very nimble and quick. Able to disarm traps and set them up very quickly.",
+        "img_src": "trapmaster.png"
+    },
+    {
+        "id": 2,
+        "name": "bomb lobber",
+        "description": "Able to throw bombs very far and very accurately.",
+        "img_src": "Inferno-Bomber.webp"
+    },
+    {
+        "id": 3,
+        "name": "friede",
+        "description": "Woman with scythe. Able to summon a giant scythe to attack enemies.",
+        "img_src": "sister_friede_1.avif"
+    }
+]
