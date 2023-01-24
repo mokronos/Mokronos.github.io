@@ -1,0 +1,18 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    }
+.container {
+    background-color: #345;
+    color: #444;
+}
+
+button {
+    background-color: #273747;
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 150%;
+    cursor: pointer;
+}

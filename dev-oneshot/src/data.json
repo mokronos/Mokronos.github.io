@@ -3,18 +3,45 @@
         "id": 1,
         "name": "trap master",
         "description": "Very nimble and quick. Able to disarm traps and set them up very quickly.",
-        "img_src": "trapmaster.png"
+        "img_src": "trapmaster.png",
+        "stats": {
+            "VTD": 22,
+            "LP": 25,
+            "SR": 0
+        },
+        "ability": {
+            "name": "trap grid",
+            "description": "The room is a 5x5 grid. Runs in a random direction, away from the party and places a trap on the tile he left. The trap deals 2W10 damage. Runs one tile after 5 ticks."
+        }
     },
     {
         "id": 2,
         "name": "bomb lobber",
         "description": "Able to throw bombs very far and very accurately.",
-        "img_src": "Inferno-Bomber.webp"
+        "img_src": "Inferno-Bomber.webp",
+        "stats": {
+            "VTD": 22,
+            "LP": 25,
+            "SR": 0
+        },
+        "ability": {
+            "name": "trap grid",
+            "description": "The room is a 5x5 grid. Runs in a random direction, away from the party and places a trap on the tile he left. The trap deals 2W10 damage. Runs one tile after 5 ticks."
+        }
     },
     {
         "id": 3,
-        "name": "friede",
+        "name": "sister friede",
         "description": "Woman with scythe. Able to summon a giant scythe to attack enemies.",
-        "img_src": "sister_friede_1.avif"
+        "img_src": "sister_friede_1.jpg",
+        "stats": {
+            "VTD": 22,
+            "LP": 25,
+            "SR": 0
+        },
+        "ability": {
+            "name": "trap grid",
+            "description": "The room is a 5x5 grid. Runs in a random direction, away from the party and places a trap on the tile he left. The trap deals 2W10 damage. Runs one tile after 5 ticks."
+        }
     }
 ]

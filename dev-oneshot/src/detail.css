@@ -1,0 +1,39 @@
+.detailContainer {
+    background-color: #273747;
+    height: 30vh;
+    width: 30vw;
+    color: #fff;
+    border-radius: 0px;
+    padding: 0px;
+    font-size: 150%;
+}
+.boxGrid {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    height: 100%;
+    grid-gap: 2px;
+}
+
+.bigImage {
+    max-width: 100%;
+    height: auto;
+    float: left;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.description {
+    text-align: left;
+    font-size: 60%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: 80%;
+}
