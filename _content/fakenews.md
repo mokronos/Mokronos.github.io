@@ -234,4 +234,14 @@ If group testimony is wildly at odds with your own knowledge, one has no reason 
 
 ## Context Collapse
 
+## Hopeful Trust
+
+Pendulum swung too far:
+- Tweets with misinformation are taken as truth because of labels of person (trans, black); Trust gets abused by speaker. It is assumed people trust the person just because of the label. Examples dispropotionally damage trust in thruthful speakers.
+	- trans person claiming periods https://twitter.com/poisonaivy69/status/1507362480158355508
+	- jakob blake misinfo
+
+- vulnerability invites trust, but only sometimes. On social media, one needs to take the average to see effect
+	- trump voters meat trans poeple in real life
+
 
