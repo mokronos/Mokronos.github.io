@@ -89,3 +89,51 @@ Good time to socialize. Meeting friends helps.
 2. Socialize only after 16:00, if work is done.
 3. Can take two days off each week, if i feel like it.
 4. If I feel healthy and motivated, I can follow the routine every single day, without off days.
+
+# Food Plan (Weekly):
+
+| Day        | Meal |
+| ------------- |:-------------:|
+| Monday | Tofu, zucchini, bell pepper, soy sauce, ginger stir fry with white rice|
+| Tuesday | Lentil soup with a side of whole grain crackers/bread|
+| Wednesday | Quinoa bowl with roasted mushrooms and brokkoli with lemon juice|
+| Thursday | Tofu, zucchini, bell pepper, soy sauce, ginger stir fry with white rice|
+| Friday | Spinach and tomato omelet with whole grain toast|
+| Saturday | Wrap with hummus, roasted eggplant and arugula|
+| Sunday | Tofu, zucchini, bell pepper, soy sauce, ginger stir fry with white rice|
+
+Every day: Spices (pepper, salt, thyme, rosemary, garlic powder)
+
+
+# Shopping List (Wednesday):
+
+## Fresh:
+
+### Vegetables/Fruits:
+- 3x zucchini
+- 3x bell pepper
+- 3x mushrooms
+- 1x eggplant
+- tomatoes
+- brokkoli
+- fresh spinach
+- arugula
+- 3x ginger
+
+### Other:
+- 3x tofu
+- hummus
+- 4x eggs
+- wraps
+- cheese
+
+## Bulk:
+- soy sauce
+- quinoa
+- lentils
+- white rice
+- whole grain crackers/bread
+- hummus
+- lemon juice (oil)
+- spices (pepper, salt, thyme, rosemary, garlic powder)
+- vegetable broth powder
