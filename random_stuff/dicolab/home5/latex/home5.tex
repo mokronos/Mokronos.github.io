@@ -1,0 +1,93 @@
+\documentclass{article}
+
+\setlength{\parindent}{0pt}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{amsmath}
+
+\graphicspath{{../images/}}
+
+\begin{document}
+
+\section{H-5.1}
+
+
+Average:
+\begin{align}
+    m_a = \frac{1}{M} \sum_{a_m\in A} a_m
+\end{align}
+
+Variance:
+\begin{align}
+   \sigma_a^2 = \frac{1}{M} \sum_{a_m\in A} |a_m|^2 - |m_a|^2
+\end{align}
+
+In the case of QAM the mean of the points is 0, as there is always another point symmetric to the origin.
+
+$a_m$ is the amplitude of the $m$-th point.
+The variace is increasing with the amount of rings of QAM points (M).
+
+\section{H-5.2}
+
+Signal and noise have zero mean.
+???
+
+\section{H-5.3}
+
+randn() generates matrix with random numbers from a normal distribution with mean 0 and variance 1.
+Add 1i to get the complex part. sqrt(2) normalizes the values.
+
+\begin{verbatim}
+M = 4; % Number of transmit signals
+N = 2; % Number of receive signals
+H = (randn(N,M) + 1i*randn(N,M)) / sqrt(2);
+
+sigma_n = 0.1; % Noise std
+n = (randn(N,1) + 1i*randn(N,1)) * sigma_n;
+\end{verbatim}
+
+\section{H-5.4}
+
+Given tx and rx vectors as the sybols transmitted and received, respectively, one can compare them and count how many don't align.
+Get length of one vector.
+Then devide number of errors by length of the vector of symbols.
+
+\begin{verbatim}
+num_errors = sum(tx ~= rx); % Count the number of symbol errors
+total_symbols = length(tx); % Total number of transmitted symbols
+ser = num_errors / total_symbols; % Calculate the SER
+\end{verbatim}
+
+\section{H-5.5}
+Rayleight distribution.
+
+pdf:
+
+\begin{equation}
+f_p(p) =
+    \begin{cases}
+        \frac{p}{\sigma^2} e^{-\frac{p^2}{2\sigma^2}} & \text{for } p \geq 0 \\
+        0 & \text{for } p < 0
+    \end{cases}
+\end{equation}
+
+\section{H-5.6}
+
+MRC is trying to combine the signals from the different antennas to get the best signal.
+This is done by making each signal proportional to the signal level and inversely proportional to the noise level.
+
+Matrix/vector notation ???
+
+\section{H-5.7}
+
+???
+
+\section{H-5.8}
+
+AS needs less hardware, as it doen't need to combine the signals, but can use the one with the highest signal stregth.
+
+\section{H-5.9}
+
+The amount of signal points to check should just be the amount for one QAM signal times the number of antennas. $C = 2^M N_T$
+
+\end{document}
