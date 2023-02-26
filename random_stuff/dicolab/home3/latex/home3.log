@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.2.17)  21 FEB 2023 10:39
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.2.17)  25 FEB 2023 14:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -306,36 +306,48 @@ LaTeX Info: Redefining \nameref on input line 10.
 \@outlinefile=\write3
 \openout3 = `home3.out'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
- [1
+<../images/ofdm_transmitter.png, id=28, 516.42938pt x 307.1475pt>
+File: ../images/ofdm_transmitter.png Graphic file (type png)
+<use ../images/ofdm_transmitter.png>
+Package pdftex.def Info: ../images/ofdm_transmitter.png  used on input line 27.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
+(pdftex.def)             Requested size: 207.0021pt x 123.11458pt.
+<../images/ofdm_receiver.png, id=30, 432.11438pt x 343.2825pt>
+File: ../images/ofdm_receiver.png Graphic file (type png)
+<use ../images/ofdm_receiver.png>
+Package pdftex.def Info: ../images/ofdm_receiver.png  used on input line 41.
+(pdftex.def)             Requested size: 207.0021pt x 164.44896pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 50.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <../images/ofdm_transmitter
+.png>] [2 <../images/ofdm_receiver.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 50.
  (./home3.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 50.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 50.
 Package rerunfilecheck Info: File `home3.out' has not changed.
-(rerunfilecheck)             Checksum: 3E0C7EFDD67BEDA3CD43CC0ACFBB2BB3;80.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 35.
+(rerunfilecheck)             Checksum: 51B9933A487E7E6C3B01D112A9E53F41;240.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 50.
  ) 
 Here is how much of TeX's memory you used:
- 5793 strings out of 483183
- 87391 string characters out of 5966292
- 343089 words of memory out of 5000000
- 20724 multiletter control sequences out of 15000+600000
- 533397 words of font info for 28 fonts, out of 8000000 for 9000
+ 5814 strings out of 483183
+ 87818 string characters out of 5966292
+ 344100 words of memory out of 5000000
+ 20737 multiletter control sequences out of 15000+600000
+ 532943 words of font info for 26 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 34i,4n,29p,213b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 34i,5n,29p,213b,312s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on home3.pdf (1 page, 59573 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on home3.pdf (2 pages, 76645 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
- 38 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 59 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 59 words of extra memory for PDF output out of 10000 (max. 10000000)
 
