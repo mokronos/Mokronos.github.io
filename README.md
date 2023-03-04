@@ -9,3 +9,4 @@
 ## Other:
 
 - use to save some random stuff
+- maybe have some random small gadgets attached, like /oneshot
