@@ -5,3 +5,7 @@
 - depth first learning
 - frequent iteration
 - summarize everything in your own words
+
+## Other:
+
+- use to save some random stuff
