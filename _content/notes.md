@@ -4,11 +4,8 @@
 <!-- --- -->
 
 
-# master thesis
+## Destiny notes
 
-## text compression
-- create dictionary with recognized patterns from text recognition DL model.
-- check how good compression of text is, by using a deep learning text recognition model.
-- end to end screen content compression with deep learning
+- Website to organize Destiny's arguments in a nice format with logic structure
 
-## autoencoder
+
