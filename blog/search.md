@@ -29,8 +29,8 @@ def linear(input, target):
 ```
 
 Complexity:  
-\\(O(n)\\)  
-\\(\Omega(1)\\)
+$O(n)$  
+$\Omega(1)$
 
 ## Binary Search
 
@@ -60,11 +60,11 @@ def binary(input, target, idx = None):
 ```
 
 Complexity:  
-\\(O(\log n)\\)  
-\\(\Omega(1)\\)
+$O(\log n)$  
+$\Omega(1)$
 
 ## Sorting
 
 **Now the question is:**  
 Is it better to just do linear search or sort the array and then do binary search. For one search linear search would make more sense. However in practice the same arrays often get searched multiple times. So it is better to sort them once and then do binary search multiple times on the sorted array to save time.   
-[Some Sort Algorithms.](sort)
+[Some Sort Algorithms.](/blog/sort.md)

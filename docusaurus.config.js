@@ -4,6 +4,9 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const math = require('remark-math');
+const katex = require('rehype-katex');
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Mokronos\'s Site',
@@ -47,6 +50,8 @@ const config = {
         blog: {
           showReadingTime: true,
             blogSidebarCount: 'ALL',
+            remarkPlugins: [math],
+            rehypePlugins: [katex],
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -63,7 +68,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      // image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: 'Mokronos\'s Site',
         logo: {
@@ -96,7 +101,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Sebastian Hirt Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} | Sebastian Hirt | Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -112,7 +117,16 @@ const config = {
             async: false,
         },
     ],
-    // plugins: [require.resolve('docusaurus-lunr-search')],
+    plugins: [require.resolve('docusaurus-lunr-search')],
+    stylesheets: [
+        {
+          href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+          type: 'text/css',
+          integrity:
+            'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+          crossorigin: 'anonymous',
+        },
+      ],
 };
 
 module.exports = config;

@@ -35,8 +35,8 @@ def selection(input):
     return input
 ```
 Complexity:  
-\\(O(n^2)\\)  
-\\(\Omega(n^2)\\)
+$O(n^2)$  
+$\Omega(n^2)$
 
 ## Bubble sort
 
@@ -54,8 +54,8 @@ def bubble(input):
     return input
 ```
 Complexity:  
-\\(O(n^2)\\)  
-\\(\Omega(n)\\)
+$O(n^2)$  
+$\Omega(n)$
 
 ## Merge sort
 

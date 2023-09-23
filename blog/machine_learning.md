@@ -6,7 +6,7 @@ layout: base
 # Machine Learning
 
 ## Preparation
-Going Through [CS50](https://cs50.harvard.edu/college/2022/spring/notes/0/) for refresh of some basics ([Notes](cs50)).
+Going Through [CS50](https://cs50.harvard.edu/college/2022/spring/notes/0/) for refresh of some basics ([Notes](/blog/cs50.md)).
 
 ## Sources
 [Roadmap/Plan](https://machinelearningmastery.com/start-here/)  
