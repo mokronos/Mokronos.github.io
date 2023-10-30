@@ -18,3 +18,12 @@ Need to set the seed in the file of the execution of the function. If the functi
 
 - gf to open file under cursor (markdown internal links)
 - gx to open file under cursor with default program (images, urls)
+
+## Local server
+
+If you get slow load times on every other request only in chrome, use 127.0.0.1 instead of localhost.
+I think it has something to do with chrome trying to resolve localhost to ipv6 first.
+
+## Cool python libraries
+
+- [icecream](https://github.com/gruns/icecream) for nicer printing/logging
