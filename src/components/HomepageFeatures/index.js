@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Imdb Heatmap',
-    link: 'https://mokronos.github.io/showheatmap/',
+    link: 'https://mokronos.github.io/imdb-heatmap/',
     Image: require('@site/static/img/showheatmap.png').default,
     description: (
       <>

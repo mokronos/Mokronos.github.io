@@ -27,3 +27,9 @@ I think it has something to do with chrome trying to resolve localhost to ipv6 f
 ## Cool python libraries
 
 - [icecream](https://github.com/gruns/icecream) for nicer printing/logging
+
+## Python flask sqlite
+
+When accessing database, the fetchall() function returns a list of sql row objects.
+When accessing a specific column from one row, in python you need to use bracket notation [string].
+In the jinja template you can use the dot notation .string (without quotation marks, like accessing an attribute of an object) or the bracket notation.
