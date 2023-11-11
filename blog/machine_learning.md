@@ -52,3 +52,36 @@ Going Through [CS50](https://cs50.harvard.edu/college/2022/spring/notes/0/) for 
 - Concisely describe the solution as an answer to the question
 - Specify limitations of the model, what questions it can't answer and with what probability it can answer questions
 
+
+# Precision and Recall
+
+Let's assume we have a dataset of 10 items and some metric with a threshold | beyond witch our correctly classified items should lie.
+X is the positive class, o is the negative class.
+To the right of the threshold the positive class is correctly classified, to the left it is not.
+
+o o o o o x x | x o x
+
+We can then calculate the true positives, false positives, true negatives and false negatives.
+
+## Confusion Matrix:
+
+- True Positives (TP): 2 (Number of positive items correctly classified)
+- False Positives (FP): 2 (Number of positive items incorrectly classified)
+- True Negatives (TN): 5 (Number of negative items correctly classified)
+- False Negatives (FN): 1 (Number of negative items incorrectly classified)
+
+## Performance Metrics:
+
+- Accuracy: (TP + TN) / (TP + TN + FP + FN) = 8/10
+    - Rate of correct classifications.
+
+- Precision: TP / (TP + FP) = 2/4
+    - Precision is the rate of correctly predicted positives of all predicted positives. Should be high for detecting spam email. You want to let all important emails through, and it's fine if some spam get's through.
+
+- Recall: TP / (TP + FN) = 2/3
+    - Recall is the rate of correctly predicted positives of all actual positives. Should be high for detecting thiefs. It's important to catch all of them, and fine if you pull out a few normal customers.
+
+- F1 Score: 2 * (Precision * Recall) / (Precision + Recall) = 2/3
+    - Harmonic mean of precision and recall.
+- Specificity: TN / (TN + FP) = 5/7
+    - Rate of correct negative classifications.
