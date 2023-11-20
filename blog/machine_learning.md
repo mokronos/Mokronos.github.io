@@ -85,3 +85,60 @@ We can then calculate the true positives, false positives, true negatives and fa
     - Harmonic mean of precision and recall.
 - Specificity: TN / (TN + FP) = 5/7
     - Rate of correct negative classifications.
+
+
+# Things to look out for
+
+## AUC of 1
+- AUC can be interpreted as the probability that the model will rank a random positive example higher than a random negative example, which is good.
+- but AUC of 1 indicates a perfect model, which is likely a bug
+
+## Loss increasing
+
+- Bug
+- Learning rate too high
+    - always start with low learning rate to check if everything works
+    - then adjust
+    - not working if loss function plateaus, or start is in a local minimum
+
+
+# Overview
+
+This should be a high level overview of the field of machine learning.
+It can help to determine what methods to use for a given problem.
+In general it's important to know what kind of data there is and what you want to predict.
+From that you can determine what kind of model, loss function and optimization algorithm to use.
+
+- Predicting a quantity:
+    - Regression
+        - Linear Regression
+        - Logistic Regression
+        - Support Vector Machines
+        - Neural Networks
+- Predicting a category:
+    - Classification
+        - Logistic Regression
+        - Support Vector Machines
+        - Neural Networks
+
+- add base formulas for everything
+- but also add implementations for everything
+## Feature Selection/Engineering
+
+## Models
+
+## Loss Functions
+
+- Add [regularization](ml_glossary/#regularization) to loss function
+
+## Optimization Algorithms
+
+- Compute gradients
+
+## Evaluation Metrics
+
+### Classification
+
+#### Accuracy
+
+$accuracy = \frac{correctly\ classified\ examples}{total\ examples}$
